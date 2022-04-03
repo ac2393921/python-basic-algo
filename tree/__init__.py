@@ -1,2 +1,1 @@
-from multiprocessing.spawn import import_main_path
-from union_find import UnionFind
+from .union_find import UnionFind
